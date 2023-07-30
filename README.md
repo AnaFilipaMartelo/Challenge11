@@ -1,4 +1,4 @@
-# Challenge11
+# Exploring E-commerce Growth: Insights from MercadoLibre's Data Analysis
 
 In this project, I analyze the financial and user data of MercadoLibre, the leading e-commerce platform in Latin America. With a focus on driving revenue and growth, I employ clever data preparation, analysis, and visualizations to unveil valuable insights for the company. The key components of this analysis are Seasonality Analysis, Correlation of Stock Price and Search Traffic, Prophet Forecast Model for Search Traffic, and Revenue Forecast.
 
